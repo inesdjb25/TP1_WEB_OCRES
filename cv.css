@@ -1,0 +1,57 @@
+aside.Info {
+	
+    position: absolute;
+    
+    left: 0px;
+    width: 250px;
+   height: 100% ;
+    background-color:#E3D2CC ;
+
+}
+
+
+main {
+	position: absolute;
+	padding-left: 275px;
+	background-color: #FAEFED ; 
+	width: 100%;
+	height: 100% ;
+}
+
+.rounded-circle {
+
+	position: relative ; 
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 25px;
+
+}
+
+.resume-section-content {
+	padding-left: 10px;
+}
+
+
+
+
+aside.image {
+	
+	position: absolute;
+	width: 100px;
+	height: 100%;
+	background-color: pink;
+
+
+}
+
+
+header.card-body {
+	padding-left: 116px;
+	box-shadow: 10px 5px 5px black;
+	}
+
+
+header.card {
+	margin-bottom: 12px ; 
+
+}
