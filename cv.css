@@ -2,12 +2,19 @@
 	background-color: #F3F2E7;
 }
 
-.principal {
-	background-color : #EAEFF0;
-	
-}
 
 .diplome {
 
 	align-content: center;
+}
+
+.experience {
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+}
+
+.tab-loisir {
+	margin-top: 1.5em;
+	margin-bottom: 1em;
+	padding-top: 2em;
 }
